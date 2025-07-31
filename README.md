@@ -12,3 +12,20 @@
 - **Amazon-like Styling:** Authentic Amazon.in design replication
 - **Mobile Responsive:** Optimized for different screen sizes
 - **Interactive Elements:** Hover effects, button animations, and dynamic content
+
+## 🛠️ Technologies Used
+
++ **Frontend:** HTML5, CSS3, Vanilla JavaScript
++ **Styling:**
+CSS3 with Flexbox and Grid layouts
+CSS transforms and transitions
+Amazon sprite images and custom styling
+
++ **JavaScript:**
+DOM manipulation
+Event handling
+CSS transform animations
+
+**Icons:** Amazon's official sprite images and SVG icons
+**Fonts:** Arial and Helvetica system fonts
+**Version Control:** Git & GitHub
