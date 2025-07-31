@@ -17,7 +17,7 @@
 
 + **Frontend:** ++ HTML5, ++ CSS3, ++Vanilla JavaScript
 + **Styling:**
-++ CSS3 with Flexbox and Grid layouts
+  ++ CSS3 with Flexbox and Grid layouts
 ++ CSS transforms and transitions
 ++ Amazon sprite images and custom styling
 
