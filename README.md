@@ -26,6 +26,6 @@ DOM manipulation
 Event handling
 CSS transform animations
 
-**Icons:** Amazon's official sprite images and SVG icons
-**Fonts:** Arial and Helvetica system fonts
-**Version Control:** Git & GitHub
++ **Icons:** Amazon's official sprite images and SVG icons
++ **Fonts:** Arial and Helvetica system fonts
++ **Version Control:** Git & GitHub
